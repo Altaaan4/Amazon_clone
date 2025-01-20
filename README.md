@@ -18,10 +18,10 @@
 # Easy Contact Access
 -Reach out to the store with ease! Contact information is clearly displayed at the bottom of the page for your convenience.
 
----
 # Technologies Used 🛠
 
 - **HTML5**
 - **CSS3**
 
-#Preview
+# Preview
+![Image](https://github.com/user-attachments/assets/270b583c-b9af-49e1-a935-0df04313a994)
